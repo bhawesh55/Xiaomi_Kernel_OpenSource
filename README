@@ -2,7 +2,8 @@
 
 These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
-kernel, and what to do if something goes wrong. 
+kernel, and what to do if something goes wrong. Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the soft
+re to anyone and for any purpose.[1] Open-source software may be developed in a collaborative public manner. Open-source software is the most prominent example of open-source development.[2]
 
 WHAT IS LINUX?
 
@@ -98,7 +99,10 @@ INSTALLING the kernel source:
 
    Alternatively, the script patch-kernel can be used to automate this
    process.  It determines the current kernel version and applies any
-   patches found.
+   patches found.A license may be granted by a party ("licensor") to another party ("licensee") as an element of an agreement between those parties. A shorthand definition of a license is "an authorization (by the licensor) to use the licensed material (by the licensee)."
+
+In particular, a license may be issued by authorities, to allow an activity that would otherwise be forbidden. It may require paying a fee and/or proving a capability. The requirement may also serve to keep the authorities informed on a type of activity, and to give them the opportunity to set conditions and limitations.
+
 
 		linux/scripts/patch-kernel linux
 
